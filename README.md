@@ -13,20 +13,20 @@ The main script that runs the following scripts sequentially:
 2. [`WinGet-Upgrade.ps1`](#winget-upgradeps1)
 3. [`WinGet-Clean.ps1`](#winget-cleanps1)
 
-### 📃 `WinGet-Maintenance.ps1`
+### 🔧 `WinGet-Maintenance.ps1`
 Checks for and installs if necessary:
 - `WinGet`
 - The PowerShell module `Microsoft.WinGet.Client`
 
 This ensures the system is ready to use advanced WinGet commands from PowerShell.
 
-### 📃 `WinGet-Upgrade.ps1`
+### ✅ `WinGet-Upgrade.ps1`
 - Checks for available updates for WinGet-managed packages.
 - Updates packages one by one if updates are found.
 - If updating a package is not possible, the package is uninstalled and reinstalled.
 - Saves a local copy of downloaded installers/updaters.
 
-### 📃 `WinGet-Clean.ps1`
+### 🗑️ `WinGet-Clean.ps1`
 - Cleans up old temporary files and logs.
 - Keeps a configurable minimum number of:
   - Execution logs
