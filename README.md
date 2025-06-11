@@ -5,7 +5,7 @@ This project automates system maintenance using **WinGet** and **PowerShell**, c
 ## 🗂️ Script Structure
 
 ### `Winget-Main.vbs`
-Launches WinGet-Main.ps1 bypassing the ExecutionPolicy.
+Launches **WinGet-Main.ps1** bypassing the Execution Policy.
 
 ### 📃 `WinGet-Main.ps1`
 The main script that runs the following scripts sequentially:
