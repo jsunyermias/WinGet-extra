@@ -11,7 +11,7 @@ Launches **WinGet-Main.ps1** bypassing the Execution Policy.
 The main script that runs the following scripts sequentially:
 1. [`WinGet-Maintenance.ps1`](#winget-maintenanceps1)
 2. [`WinGet-Upgrade.ps1`](#winget-upgradeps1)
-3. [`SelfUpgrade.ps1`](#selfupgradeps1) (NOT YET)
+3. [`SelfUpgrade.ps1`](#selfupgradeps1) (NOT AVAILABLE YET)
 4. [`WinGet-Clean.ps1`](#winget-cleanps1)
 
 ### 🔧 `WinGet-Maintenance.ps1`
@@ -50,8 +50,8 @@ This includes:
 1. **Run WinGet-Main.vbs as Administrator:**  
    Elevated permissions are required to install, update, and clean system packages.
 
-### Installation
-Run Install.bat (NOT YET) as Administrator.
+### `Installation`
+Run Install.bat (NOT AVAILABLE YET) as Administrator.
 
 ## ❗ Requirements
 
