@@ -1,6 +1,6 @@
 # WinGet-extra
 
-This project automates system maintenance using **WinGet** and **PowerShell**, centralizing all scripts, logs, and temporary files under `%ProgramData%\WinGet-extra`.
+This project automates system maintenance using **WinGet** and **PowerShell**, centralizing all scripts, logs, and temporary files under the same directory.
 
 ## 🗂️ Script Structure
 
