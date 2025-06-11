@@ -50,7 +50,7 @@ This includes:
 1. **Run WinGet-Main.vbs as Administrator:**  
    Elevated permissions are required to install, update, and clean system packages.
 
-### `Installation`
+### 📦 `Installation`
 Run Install.bat (NOT AVAILABLE YET) as Administrator.
 
 ## ❗ Requirements
