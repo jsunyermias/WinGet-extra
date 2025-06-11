@@ -50,6 +50,9 @@ This includes:
 1. **Run WinGet-Main.vbs as Administrator:**  
    Elevated permissions are required to install, update, and clean system packages.
 
+### Installation
+Run Install.bat (NOT YET) as Administrator.
+
 ## ❗ Requirements
 
 Windows 10/11 with WinGet support
