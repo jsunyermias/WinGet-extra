@@ -11,7 +11,8 @@ Launches WinGet-Main.ps1 bypassing the ExecutionPolicy.
 The main script that runs the following scripts sequentially:
 1. [`WinGet-Maintenance.ps1`](#winget-maintenanceps1)
 2. [`WinGet-Upgrade.ps1`](#winget-upgradeps1)
-3. [`WinGet-Clean.ps1`](#winget-cleanps1)
+3. [`SelfUpgrade.ps1`](#selfupgradeps1) (NOT YET)
+4. [`WinGet-Clean.ps1`](#winget-cleanps1)
 
 ### 🔧 `WinGet-Maintenance.ps1`
 Checks for and installs if necessary:
